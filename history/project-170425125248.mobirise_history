@@ -161,7 +161,6 @@
               "color": "#f7da64"
             }
           },
-          "_customCSS": ".form-control {\n    opacity: .85;\n}\n\ninput::-webkit-input-placeholder {\n    color: #28324E;\n}",
           "_anchor": "extHeader13-c",
           "_params": {
             "parallax": false,
@@ -214,14 +213,14 @@
           },
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Let's talk!</a>",
           "title": "SEE YOU AT<br>LTEN",
-          "text": "<span style=\"line-height: 1.5;\">Booth 512</span><br>June 5-8, 2017<br>"
+          "text": "<span style=\"line-height: 1.5;\">Booth 512</span><br>June 5-8, 2017<br>",
+          "_customCSS": ".form-control {\n    opacity: .85;\n}\n\ninput::-webkit-input-placeholder {\n    color: #28324E;\n}"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_customCSS": "",
           "_anchor": "image1-3",
           "media": {
             "image": {
@@ -240,7 +239,8 @@
           "_params": {
             "showText": false
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_customCSS": ""
         },
         {
           "_styles": {
