@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "lten_landing_page",
+    "name": "lten",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -266,7 +266,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "<span style=\"font-weight: normal;\">At the Booth</span>",
+          "title": "<span style=\"font-weight: normal;\">This year at Booth 512</span>",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
