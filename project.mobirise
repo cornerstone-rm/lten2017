@@ -22,7 +22,7 @@
       }
     },
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "versionFirst": "3.12.1",
     "uniqCompNum": 17,
     "versionPublish": "3.12.1",
@@ -33,7 +33,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "LTEN: Cornerstone Management Resource Systems",
+        "title": "",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -226,7 +226,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lten-nashville-geo2-hero-new-1400x430.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lten-nashville-geo2-hero-new.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
